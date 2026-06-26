@@ -53,15 +53,26 @@ This project demonstrates the implementation of an automated backup and log moni
   <img src="screenshots/executable&rum-backup.sh.png" alt="backup-sh-script execution" width="600">
 </p>
 
+<h3 align="center">log_monitor.sh execution</h3>
+<p align="center">
+  <img src="screenshots/log-monitor.sh.png" alt="log_monitor.sh execution" width="600">
+</p>
+
+- Automatic cron execution
+<p align="center">
+  <img src="screenshots/cron-log.png" alt="cron-log" width="600">
+</p>
+
+- Backup creation verification
 <p align="center">
   <img src="screenshots/backup-log-display.png" alt="backup-log-display" width="600">
 </p>
 
-
-
-- Automatic cron execution
-- Backup creation verification
 - Alert generation verification
+<p align="center">
+  <img src="screenshots/alert-display.png" alt="when error is less than 5 no alert" width="600">
+</p>
+
 - Backup rotation testing
 
 
