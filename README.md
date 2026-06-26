@@ -21,7 +21,7 @@ This project demonstrates the implementation of an automated backup and log moni
 ## Project Structure
 
 <p align="center">
-  <img src="screenshots/tree-structure.png" alt="Project Structure" width="600">
+  <img src="screenshots/tree-structure.png" alt="Project Structure" width="400">
 </p>
 
 ## Features
