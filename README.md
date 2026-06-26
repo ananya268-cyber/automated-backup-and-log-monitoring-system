@@ -80,12 +80,11 @@ This project demonstrates the implementation of an automated backup and log moni
 ## Limitations
 Email alert delivery requires an SMTP relay or mail server configuration. The functionality was implemented and tested in Ubuntu WSL where external email delivery was not configured.
 
-## Implementation Evidence
-
+<h3 align="center">Implementation Evidence</h3>
 The screenshot below demonstrates the successful implementation of the automated backup and log monitoring system. It highlights the organized project directory, timestamped backup snapshots, generated reports, and automation scripts.
 
 <p align="center">
-  <img src="screenshots/tree-end.png" alt="Implementation Evidence" width="500">
+  <img src="screenshots/tree-end.png" alt="Implementation Evidence" width="400">
 </p>
 
 ## Learning Outcomes
