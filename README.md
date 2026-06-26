@@ -20,18 +20,9 @@ This project demonstrates the implementation of an automated backup and log moni
 
 ## Project Structure
 
-```text
-project02/
-├── backups/
-├── reports/
-├── scripts/
-│   ├── backup.sh
-│   └── log_monitor.sh
-└── source/
-    ├── config/
-    ├── data/
-    └── logs/
-```
+<p align="center">
+  <img src="screenshots/tree-structure.png" alt="Project Structure" width="600">
+</p>
 
 ## Features
 
