@@ -84,7 +84,9 @@ Email alert delivery requires an SMTP relay or mail server configuration. The fu
 
 The screenshot below demonstrates the successful implementation of the automated backup and log monitoring system. It highlights the organized project directory, timestamped backup snapshots, generated reports, and automation scripts.
 
-![Implementation Evidence](screenshots/tree-end.png)
+<p align="center">
+  <img src="screenshots/tree-end.png" alt="Implementation Evidence" width="500">
+</p>
 
 ## Learning Outcomes
 - Linux system administration
