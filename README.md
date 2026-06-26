@@ -73,8 +73,18 @@ This project demonstrates the implementation of an automated backup and log moni
   <img src="screenshots/alert-display.png" alt="when error is less than 5 no alert" width="600">
 </p>
 
-- Backup rotation testing
-
+<p align="center">
+  <img src="screenshots/error-morethan5.png" alt="when error more than 5" width="600">
+</p>
 
 ## Limitations
 Email alert delivery requires an SMTP relay or mail server configuration. The functionality was implemented and tested in Ubuntu WSL where external email delivery was not configured.
+
+## Learning Outcomes
+- Linux system administration
+- Shell scripting
+- File management and automation
+- Log analysis
+- Job scheduling with cron
+- Service management with systemd
+- Monitoring and alerting concepts
